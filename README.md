@@ -1,6 +1,6 @@
 # Hello, there. 😸
 
-I'm rxxbyy (pronounced as "ruby"). My real name is Manuel, I'm a undergraduate computer scientist that loves programming and solve problems using technology.
+I'm rxxbyy (pronounced as "ruby"). My real name is Manuel, I'm a undergraduate computer scientist that loves low-level programming and solve problems using technology.
 <br>
 
 
