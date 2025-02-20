@@ -9,6 +9,7 @@ Check out my blog online [sillycomputerstuff](https://sillycomputerstuff.netlify
 ### OS Development
 [![Qemu](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)](https://www.qemu.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html)
+[![ASM](https://img.shields.io/badge/ASM-8E8E8E?style=for-the-badge&logo=asm&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 
 ### Web Development
 
